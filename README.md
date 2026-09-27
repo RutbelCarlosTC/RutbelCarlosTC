@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rutbel Carlos TC</h1>
+<h1 align="center">Hi 👋, I'm Rutbel</h1>
 <h3 align="center">A passionate mobile and web developer from Perú</h3>
 
 <p align="center">
